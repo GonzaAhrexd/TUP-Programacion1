@@ -1,0 +1,98 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Ejercicio2",
+            "request": "launch",
+            "mainClass": "Ejercicio2",
+            "projectName": "JavaUTN_220d2113"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio1",
+            "request": "launch",
+            "mainClass": "Ejercicio1",
+            "projectName": "JavaUTN_220d2113"
+        },
+        {
+            "type": "java",
+            "name": "Ejemplo1",
+            "request": "launch",
+            "mainClass": "Ejemplo1",
+            "projectName": "JavaUTN_220d2113"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio4",
+            "request": "launch",
+            "mainClass": "Ejercicio4",
+            "projectName": "JavaUTN_220d2113"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio3Repeticion",
+            "request": "launch",
+            "mainClass": "Ejercicio3Repeticion",
+            "projectName": "JavaUTN_220d2113"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio2Repeticion",
+            "request": "launch",
+            "mainClass": "Ejercicio2Repeticion",
+            "projectName": "JavaUTN_220d2113"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio1Repeticion",
+            "request": "launch",
+            "mainClass": "Ejercicio1Repeticion",
+            "projectName": "JavaUTN_220d2113"
+        },
+        {
+            "type": "java",
+            "name": "EjemploWhile",
+            "request": "launch",
+            "mainClass": "EjemploWhile",
+            "projectName": "JavaUTN_220d2113"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio9",
+            "request": "launch",
+            "mainClass": "Ejercicio9",
+            "projectName": "JavaUTN_220d2113"
+        },
+        {
+            "type": "java",
+            "name": "EjercicioSwitch",
+            "request": "launch",
+            "mainClass": "EjercicioSwitch",
+            "projectName": "JavaUTN_220d2113"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio6",
+            "request": "launch",
+            "mainClass": "Ejercicio6",
+            "projectName": "JavaUTN_220d2113"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BoletoViaje",
+            "request": "launch",
+            "mainClass": "BoletoViaje",
+            "projectName": "JavaUTN_220d2113"
+        }
+    ]
+}
