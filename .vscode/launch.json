@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ejercicio3",
+            "request": "launch",
+            "mainClass": "Ejercicio3",
+            "projectName": "JavaUTN_402f5774"
+        },
+        {
+            "type": "java",
+            "name": "Ejercicio2",
+            "request": "launch",
+            "mainClass": "Ejercicio2",
+            "projectName": "JavaUTN_402f5774"
+        },
+        {
+            "type": "java",
+            "name": "Practica1",
+            "request": "launch",
+            "mainClass": "Practica1",
+            "projectName": "JavaUTN_402f5774"
+        },
+        {
+            "type": "java",
             "name": "Ejercicio1",
             "request": "launch",
             "mainClass": "Ejercicio1",
