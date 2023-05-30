@@ -1,7 +1,4 @@
 import java.util.Scanner;
-
-import javax.lang.model.util.ElementScanner14;
-
 public class Ejercicio3 {
     public static Scanner input = new Scanner(System.in);
     public static void main(String args[]) {
