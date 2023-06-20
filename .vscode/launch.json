@@ -9,6 +9,13 @@
             "name": "index",
             "request": "launch",
             "mainClass": "index",
+            "projectName": "JavaUTN_6dbaa37"
+        },
+        {
+            "type": "java",
+            "name": "index",
+            "request": "launch",
+            "mainClass": "index",
             "projectName": "JavaUTN_402f5774"
         },
         {
